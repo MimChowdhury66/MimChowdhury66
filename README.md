@@ -1,4 +1,4 @@
-<img align="center" src="https://i.postimg.cc/SNYZwZVx/github-header-image.png" alt="https://www.linkedin.com/in/mim-chowdhury-304384196/" height="300" width="1000" />
+<img align="center" src="https://i.postimg.cc/gJqsv1gp/Brown-Wood-Minimalist-Profile-Linked-In-Banner.png" alt="https://www.linkedin.com/in/mim-chowdhury-304384196/" height="300" width="1000" />
 <h1 align="center">Hi 👋, I'm Mim Chowdhury</h1>
 <h2 align="left">About me</h1>
 
